@@ -8,9 +8,9 @@ Using...
 - GAS(Script)
 - GoogleSpreadSheet(DB)
 
-## How to Write your Config.gs
+## Setting your Config.gs
 
-create `config.gs` as below in the root dir.
+please create `config.gs` as below.
 
 ```
 function getSpreadSheetKey () {
@@ -25,7 +25,11 @@ function getEventName(event_name) {
   return "EVENT_NAME1";
 }
 ```
+## Setting your Spreadsheet
 
-## References
-
-github - GAS (https://tonari-it.com/gas-github-assistant-install/#toc2)
+| Name | isPIC | 
+| -- | -- | 
+| NAME1 | FALSE | 
+| NAME2 | TRUE |
+| NAME3 | FALSE |
+| *** | FALSE |
