@@ -25,3 +25,7 @@ function getEventName(event_name) {
   return "EVENT_NAME1";
 }
 ```
+
+## References
+
+github - GAS (https://tonari-it.com/gas-github-assistant-install/#toc2)
