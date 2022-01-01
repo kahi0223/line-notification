@@ -1,4 +1,4 @@
-# LineNotification
+# line-notification
 
 LineNotificationSystem
 
